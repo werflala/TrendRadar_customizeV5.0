@@ -164,7 +164,6 @@ rss:
      - id: "custom-feed"
        name: "sinyalee"
        url: "https://sinyalee.com/blog"
-       enabled: true
 
     # 自定义源示例
     # - id: "custom-feed"
